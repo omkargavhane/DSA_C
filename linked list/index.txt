@@ -1,0 +1,62 @@
++-----------------------+-------------------------------------------------------+
+|FILENAME		|DESCIPTION				           	|
++-----------------------+-------------------------------------------------------+
+|[1]SINGLELL.C		|CODE TO CREATE SINGLE LINKED LIST.AND TO PERFORME 	| 
+|			|OPERATIONS LIKE				   	| 
+|			|[1]CREATE 						|						
+|			|[2]INSERT AT BEGIN 					|
+|			|[3]INSERT AT END					|
+|			|[4]INSERT BEFORE					|
+|			|[5]INSERT AFTER					|
+|			|[6]DELETE BEGIN					|
+|			|[7]DELETE END						|
+|			|[8]DELETE BEFORE					|
+|			|[9]DELETE AFTER					|
+|			|[10]DELETE SPECIFIC NODE				|
+|			|[11]DISPLAY LL						|
++-----------------------+-------------------------------------------------------+
+|[2]CIRCULAR.C		|CODE TO CREATE CIRCULAR LINKED LIST.AND TO PERFORME 	| 
+|			|OPERATIONS LIKE				   	| 
+|			|[1]CREATE 						|						
+|			|[2]INSERT AT BEGIN 					|
+|			|[3]INSERT AT END					|
+|			|[4]INSERT BEFORE					|
+|			|[5]INSERT AFTER					|
+|			|[6]DELETE BEGIN					|
+|			|[7]DELETE END						|
+|			|[8]DELETE BEFORE					|
+|			|[9]DELETE AFTER					|
+|			|[10]DELETE SPECIFIC NODE				|
+|			|[11]DISPLAY LL						|
++-----------------------+-------------------------------------------------------+
+|[3]DOUBLYLL.C		|CODE TO CREATE DOUBLY LINKED LIST.AND TO PERFORME 	| 
+|			|OPERATIONS LIKE				   	| 
+|			|[1]CREATE 						|						
+|			|[2]INSERT AT BEGIN 					|
+|			|[3]INSERT AT END					|
+|			|[4]INSERT BEFORE					|
+|			|[5]INSERT AFTER					|
+|			|[6]DELETE BEGIN					|
+|			|[7]DELETE END						|
+|			|[8]DELETE BEFORE					|
+|			|[9]DELETE AFTER					|
+|			|[10]DELETE SPECIFIC NODE				|
+|			|[11]DISPLAY LL						|
++-----------------------+-------------------------------------------------------+
+|[4]DOUBCIRC.C		|CODE TO CREATE DOUBLY CIRCULAR LINKED LIST.		|
+|			|AND TO PERFORME OPERATIONS LIKE			| 
+|			|[1]CREATE 						|						
+|			|[2]INSERT AT BEGIN 					|
+|			|[3]INSERT AT END					|
+|			|[4]INSERT BEFORE					|
+|			|[5]INSERT AFTER					|
+|			|[6]DELETE BEGIN					|
+|			|[7]DELETE END						|
+|			|[8]DELETE BEFORE					|
+|			|[9]DELETE AFTER					|
+|			|[10]DELETE SPECIFIC NODE				|
+|			|[11]DISPLAY LL						|
++-----------------------+-------------------------------------------------------+
+|[5]APPLCTNL.C		|APPLICATION OF LINKED LIST				|
+|			|POLYNOMIAL ARITHMETIC					|
++-----------------------+-------------------------------------------------------+
