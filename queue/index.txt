@@ -1,0 +1,23 @@
++-----------------------+-------------------------------------------------------+
+|FILENAME		|DESCIPTION				           	|
++-----------------------+-------------------------------------------------------+
+|LINEARQU.C		|CODE TO PERFORME OPERATIONS LIKE INSERT DELETE		|
+|			|DISPLAY ON LINEAR QUEUE IMPLEMENTED USING ARRAY.	|	|
++-----------------------+-------------------------------------------------------+
+|FINALCQ.C		|CIRCULAR QUEUE IN C TO OVERCOME THE DISADVANTAGES OF 	|
+|			|LINEAR QUEUE.OPEARTONS ARE A=SAM AS LINEAR QUEUE	|				|
++-----------------------+-------------------------------------------------------+
+|DEQUEUE.C		|DOUBLE ENDED QUEUE ON C.				|
+|			|OPEARTIONS ARE						|
+|			|[1]INSERT AT RIGHT					|
+|			|[2]DELETE FROM LEFT					|
+|			|[3]DELETE FROM RIGHT					|
+|			|[4]INSERT AT LEFT					|
+|			|[5]DISPALY						|
++-----------------------+-------------------------------------------------------+
+|P-QUEUE.C		|PRIORITY QUEUE USING LINKED LIST			|
+|			|OPEARTIONS ARE SAME AS LINEAR QUEUE			|
++-----------------------+-------------------------------------------------------+
+|QUEUELL.C		|IMPLEMENTATION OF QUEUE USING LINKED LIST		|
+|			|OPEARTIONS ARE SAME AS LINEAR QUEUE			|
++-----------------------+-------------------------------------------------------+
