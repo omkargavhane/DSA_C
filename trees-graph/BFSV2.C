@@ -1,14 +1,15 @@
 //SE-A_IT_12.16/11/17                       BFS
 //OMKAR GAVHANE.
 #include<stdio.h>
-#include<conio.h>
+#include<string.h>
+//#include<conio.h>
 int v,arr[10][10],visited[10],count,queue[20],front=-1,rear=-1;
 char str[20];
 void bfs();
-void main()
+int main()
 {
 int i,j,sv,k,ci;
-clrscr();
+//clrscr();
 printf("\nenter no of vertex=");
 scanf("%d",&v);
 for(i=0;i<v;i++)
@@ -30,7 +31,8 @@ arr[i][j]=0;
 }
 }
 bfs();
-getch();
+return 0;
+ //getch();
 }
 void bfs()
 {
