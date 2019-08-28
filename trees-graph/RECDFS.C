@@ -3,14 +3,14 @@
 #include<string.h>
 #define size 10
 #include<stdio.h>
-#include<conio.h>
+//#include<conio.h>
 int arr[size][size],visited[size],sv,v;
 void recdfs(int);
 void main()
 {
 int i,j;
 char str[size];
-clrscr();
+//clrscr();
 printf("enter no of vertex=");
 scanf("%d",&v);
 for(i=0;i<v;i++)
@@ -24,7 +24,8 @@ printf("enter starting vertex=");
 scanf("%d",&sv);
 visited[sv]=1;
 recdfs(sv);
-getch();
+return 0;
+ //getch();
 }
 void recdfs(int sv)
 {
